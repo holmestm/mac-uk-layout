@@ -1,5 +1,6 @@
 Basic keyboard layout to make my Mac Keyboard play nicely with windows. Should fix everything except the num-pad keys.
 
+Modified to work with my Apple UK extended keyboard with numeric keypad
 
 The MIT License (MIT)
 
